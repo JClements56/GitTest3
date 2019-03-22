@@ -13,11 +13,17 @@ public class Oddities{
 
 			boolean isEven = False;
 
+			for(int k = 0; k < number; i++){
+
 			
-		
-	}
+			}//for k
+			
+			if(isEven == true){
+				
+			}else{
 
+			}//else
+		}//for i
+	}//main
 
-
-
-}
+}//class
